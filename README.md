@@ -1,3 +1,4 @@
  - 🧑‍💻 Hello World.
- - i worke with note.js since 2 y
- - nothing really valuable because its just a hobby
+ - just created this new Project "D3V3L0PB3ARS" 
+ - i ve been working with node.js over 2 y now
+ - it's a hobby only, and i am still improving
