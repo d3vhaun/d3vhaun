@@ -1,0 +1,3 @@
+ - 🧑‍💻 Hello World.
+ - i worke with note.js since 2 y
+ - nothing really valuable because its just a hobby
